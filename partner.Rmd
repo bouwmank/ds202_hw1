@@ -1,0 +1,24 @@
+---
+title: "partner"
+author: "Heather M"
+date: "8/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Partner: **Kellan Bouwmank**
+Partner's Username:*bouwman*
+
+Most Recent Commit: Added hw1 file and knitted output
+  commit ID: 233be2330dd652f8b5b2a078f1f1673e7794164c
+
+I did encounter an error when trying to knit my partner's hw1. This what the error message read when I tried knit it. output file: hw1.knit.md
+
+pandoc.exe: C:\ds202_hw1\aws-logo.png: openBinaryFile: does not exist (No such file or directory)
+Error: pandoc document conversion failed with error 1
+Execution halted
+  
+
